@@ -1926,6 +1926,55 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn 01FS 2006:219</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.7059209,59.6079375,0
+                18.7090323,59.6104017,0
+                18.7060712,59.611346,0
+                18.703346,59.6088928,0
+                18.7059209,59.6079375,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn 01FS 2010:81</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.5534009,59.4968731,0
+                18.5490235,59.4887688,0
+                18.5495385,59.484498,0
+                18.5541733,59.4794856,0
+                18.5663613,59.4776549,0
+                18.5720261,59.4807061,0
+                18.5546025,59.4828854,0
+                18.5524567,59.4910783,0
+                18.5576924,59.4933876,0
+                18.5744294,59.4911218,0
+                18.5854157,59.4974395,0
+                18.5742577,59.5005325,0
+                18.5632714,59.4940412,0
+                18.558379,59.4947819,0
+                18.5581215,59.4973959,0
+                18.5534009,59.4968731,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta NORD</name>
@@ -4675,16 +4724,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Crossover NORD/SYD</name>
-        <description>Bägränsning i Väst samt Nord</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            18.301491,59.307008,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>7 kn</name>
         <description>7 kn Punkt 149</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -5650,15 +5689,6 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Södra gränsen mot Stockholm södra</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            18.3341191,59.0536101,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>8 kn</name>
