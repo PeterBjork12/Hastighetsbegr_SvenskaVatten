@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Hastighetsbegränsningar Stockholm</name>
-    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 198 01FS 2018:48</description>
+    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 208 01FS 2018:48</description>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -6249,6 +6249,220 @@
                 17.7633736,58.8986831,0
                 17.7623222,58.9000187,0
                 17.760037,58.8998912,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn Punkt 201</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.9156984,58.886215,0
+                17.9161651,58.8857965,0
+                17.9148026,58.8848456,0
+                17.9151888,58.8844465,0
+                17.9187508,58.8848235,0
+                17.9231711,58.8871963,0
+                17.9248877,58.8867306,0
+                17.9273338,58.8880611,0
+                17.92875,58.8901233,0
+                17.9279776,58.8906777,0
+                17.9245443,58.8901899,0
+                17.9178442,58.8864368,0
+                17.9163851,58.885827,0
+                17.9158593,58.8862594,0
+                17.9156984,58.886215,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn Punkt 202</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.8433177,58.8730172,0
+                17.8412793,58.8730061,0
+                17.8414938,58.8715308,0
+                17.839112,58.8714753,0
+                17.8377173,58.8701663,0
+                17.8406141,58.8684469,0
+                17.8402278,58.8659729,0
+                17.8424809,58.8659285,0
+                17.8436611,58.8671378,0
+                17.8430388,58.8698114,0
+                17.8423307,58.8706544,0
+                17.8423951,58.8727842,0
+                17.8433177,58.8730172,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>3 kn</name>
+        <description>3 kn Punkt 203</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.878202,58.8575299,0
+                17.878674,58.8576187,0
+                17.8774295,58.8592388,0
+                17.8824506,58.8605926,0
+                17.8883729,58.8692022,0
+                17.8870855,58.8704446,0
+                17.8821931,58.86705,0
+                17.8771291,58.8709549,0
+                17.875155,58.8708883,0
+                17.8809056,58.8648089,0
+                17.8785024,58.8637438,0
+                17.8745971,58.8664509,0
+                17.8735242,58.865408,0
+                17.877172,58.8634997,0
+                17.8751121,58.8609476,0
+                17.8763995,58.8577296,0
+                17.8778157,58.8581513,0
+                17.878202,58.8575299,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>7 kn (1 apr - 30 sept)</name>
+        <description>7 kn (1 apr - 30 sept) Punkt 204</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.8134327,58.8539098,0
+                17.8148489,58.8530219,0
+                17.8171663,58.8530441,0
+                17.8187542,58.8540873,0
+                17.8201275,58.8510685,0
+                17.828968,58.8479827,0
+                17.8324871,58.8489817,0
+                17.8272943,58.8531107,0
+                17.825964,58.8527555,0
+                17.8229599,58.858371,0
+                17.8267364,58.8587927,0
+                17.8258781,58.8618997,0
+                17.81987,58.8591034,0
+                17.8134327,58.8539098,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 205</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.907688,58.8518037,0
+                17.9091685,58.8515706,0
+                17.9093187,58.8519591,0
+                17.9077523,58.8521811,0
+                17.907688,58.8518037,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn Punkt 206</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.8898668,58.8497007,0
+                17.8900813,58.8490625,0
+                17.8904783,58.8487018,0
+                17.8908538,58.8479941,0
+                17.8910469,58.8480219,0
+                17.8906285,58.8487184,0
+                17.890253,58.8490209,0
+                17.8900223,58.8494982,0
+                17.890076,58.8496869,0
+                17.8898668,58.8497007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn (1 maj - 30 sept)</name>
+        <description>8 kn (1 maj - 30 sept) Punkt 207</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.8445652,58.9055766,0
+                17.8442174,58.9043783,0
+                17.8415138,58.9033809,0
+                17.8395397,58.9015633,0
+                17.8392822,58.8999008,0
+                17.8412563,58.8989697,0
+                17.8440458,58.9010978,0
+                17.8454191,58.9010978,0
+                17.8460199,58.8997013,0
+                17.8467924,58.8997456,0
+                17.8487665,58.9019844,0
+                17.8496677,58.9020509,0
+                17.856105,58.8952232,0
+                17.8613407,58.8973736,0
+                17.8612977,58.8979057,0
+                17.8566629,58.9039128,0
+                17.848509,58.9030927,0
+                17.846964,58.9044448,0
+                17.8446833,58.9044352,0
+                17.8448442,58.9055711,0
+                17.8445652,58.9055766,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn (1 maj - 30 sept)</name>
+        <description>5 kn (1 maj - 30 sept) Punkt 208</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.7748502,58.8821607,0
+                17.7765024,58.881146,0
+                17.7787233,58.8818668,0
+                17.7767492,58.8833805,0
+                17.7761055,58.8831975,0
+                17.7748502,58.8821607,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
