@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Hastighetsbegränsningar Stockholm</name>
-    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 233C 01FS 2018:48</description>
+    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 234 01FS 2018:48</description>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -1677,15 +1677,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>10 kn</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            18.591566,59.449748,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>5 kn</name>
         <description>5 kn Punkt 94</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -1970,6 +1961,46 @@
                 18.558379,59.494782,0
                 18.558122,59.497396,0
                 18.553401,59.496873,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[17 kn > 12m]]></name>
+        <description><![CDATA[17 kn > 12m Punkt 234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            19.0510963,59.6999912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 kn Gäller endast skepp</name>
+        <description>10 kn Gäller endast skepp</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.5990935,59.4556056,0
+                18.594008,59.4517342,0
+                18.5911112,59.4511234,0
+                18.5857897,59.449651,0
+                18.5827642,59.4463514,0
+                18.5844916,59.4430871,0
+                18.5858273,59.4427203,0
+                18.5843735,59.4411481,0
+                18.5867124,59.4405754,0
+                18.5882895,59.4415572,0
+                18.5888796,59.4445899,0
+                18.5888796,59.4455498,0
+                18.5888367,59.4482876,0
+                18.5951882,59.4499237,0
+                18.5991793,59.4499455,0
+                18.5990935,59.4556056,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -3404,16 +3435,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>12 kn (skepp)</name>
-        <description>12 kn Gäller endast skepp Punkt 106</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            18.892994,59.405792,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>7 kn</name>
         <description>7 kn Punkt 107</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -4040,6 +4061,97 @@
                 18.0473802,59.3720095,0
                 18.0456314,59.375114,0
                 18.0452988,59.3753982,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 234</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.307359,59.3755014,0
+                18.3090112,59.3750587,0
+                18.309891,59.3758293,0
+                18.3087323,59.376272,0
+                18.3078632,59.3759222,0
+                18.307359,59.3755014,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 234</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.3637083,59.3689367,0
+                18.3601893,59.3634261,0
+                18.3757675,59.361589,0
+                18.3786858,59.3676248,0
+                18.3637083,59.3689367,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 234</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.3932904,59.3904747,0
+                18.3983974,59.3883332,0
+                18.4014443,59.389841,0
+                18.4090404,59.3880491,0
+                18.4174089,59.3855577,0
+                18.4199409,59.3868471,0
+                18.4218291,59.3886173,0
+                18.4220866,59.3908243,0
+                18.4182672,59.3909992,0
+                18.4159927,59.3904529,0
+                18.4070663,59.3912177,0
+                18.3932475,59.3932061,0
+                18.3932904,59.3904747,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 234</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.4357402,59.391262,0
+                18.4522197,59.388443,0
+                18.4503744,59.3958941,0
+                18.4402893,59.39963,0
+                18.4353969,59.4035839,0
+                18.4308908,59.4013121,0
+                18.4370706,59.3991494,0
+                18.4413192,59.3947798,0
+                18.4395597,59.3925075,0
+                18.4341953,59.3928134,0
+                18.4357402,59.391262,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -6660,16 +6772,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>8 kn skepp</name>
-        <description>8 kn Gäller endast skepp Punkt 215</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            17.604596,59.235438,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>5 kn</name>
         <description>5 kn Punkt 216</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -7788,16 +7890,6 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>10 kn skepp</name>
-        <description>10 kn Gäller endast skepp</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            18.1021245,59.3165869,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>12 kn öster om denna</name>
