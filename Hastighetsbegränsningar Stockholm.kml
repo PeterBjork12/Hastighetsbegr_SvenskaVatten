@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Hastighetsbegränsningar Stockholm</name>
-    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 234 01FS 2018:48</description>
+    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 250 01FS 2018:48</description>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -37,48 +37,6 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1899-0288D1-nodesc-normal">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
-      <IconStyle>
-        <color>ffd18802</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="poly-0288D1-1200-76-normal">
@@ -2001,6 +1959,34 @@
                 18.5951882,59.4499237,0
                 18.5991793,59.4499455,0
                 18.5990935,59.4556056,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 236</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.0304227,59.8540156,0
+                19.0311386,59.8539141,0
+                19.0327264,59.8549728,0
+                19.0356554,59.8558537,0
+                19.0362884,59.8524538,0
+                19.0385093,59.8503793,0
+                19.0391101,59.8505625,0
+                19.0402259,59.853817,0
+                19.0372218,59.8610256,0
+                19.0360846,59.8608747,0
+                19.0353765,59.8559183,0
+                19.0322437,59.8553903,0
+                19.0304627,59.8544528,0
+                19.0304227,59.8540156,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -4157,6 +4143,37 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 249</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6755183,59.3673492,0
+                18.6745436,59.3677029,0
+                18.6722262,59.3671343,0
+                18.6772044,59.3649476,0
+                18.6808092,59.360005,0
+                18.682955,59.3602674,0
+                18.6825259,59.362542,0
+                18.6855299,59.3624982,0
+                18.6863024,59.3593488,0
+                18.698662,59.3571616,0
+                18.7023527,59.3576428,0
+                18.6912806,59.3621483,0
+                18.6936838,59.3640291,0
+                18.6882765,59.3628919,0
+                18.6822898,59.3661503,0
+                18.677655,59.3665002,0
+                18.6755183,59.3673492,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta SYD</name>
@@ -6008,6 +6025,37 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn Punkt 248</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.3009979,59.2700196,0
+                18.2939169,59.2689231,0
+                18.2990238,59.2687257,0
+                18.3008692,59.2644929,0
+                18.298938,59.2646464,0
+                18.3000538,59.2622995,0
+                18.3040878,59.2596454,0
+                18.3104393,59.2594479,0
+                18.3072636,59.2627601,0
+                18.3100101,59.262804,0
+                18.3112118,59.2646026,0
+                18.3107826,59.2650631,0
+                18.3101818,59.2650851,0
+                18.3093235,59.2638349,0
+                18.307049,59.2652167,0
+                18.3025429,59.2671028,0
+                18.3009979,59.2700196,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm södra</name>
@@ -6605,16 +6653,6 @@
     <Folder>
       <name>Mälaren</name>
       <Placemark>
-        <name>12 kn skepp</name>
-        <description>12 kn Gäller skepp 01FS 2004:312</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            17.733262,58.948086,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>5 kn (1 jun - 30 sept)</name>
         <description>5 kn (1 jun - 30 sept) Punkt 210</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -6722,16 +6760,6 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>12 kn skepp</name>
-        <description>12 kn Gäller endast skepp</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            17.671048,59.143735,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>6 kn</name>
@@ -6962,15 +6990,6 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
-      </Placemark>
-      <Placemark>
-        <name>Brytpunkt mälaren</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            17.714664,58.931698,0
-          </coordinates>
-        </Point>
       </Placemark>
       <Placemark>
         <name>5 kn (15 maj - 30 sept)</name>
@@ -7730,6 +7749,10 @@
                 18.0783782,59.3023851,0
                 18.0958447,59.3064817,0
                 18.1021104,59.3045978,0
+                18.1076893,59.3028452,0
+                18.1080327,59.3031628,0
+                18.1022177,59.3054028,0
+                18.1040522,59.3065775,0
                 18.1064877,59.3064379,0
                 18.1060586,59.3079275,0
                 18.1009946,59.308738,0
@@ -7924,6 +7947,38 @@
                 18.1559663,59.3180401,0
                 18.1551295,59.3213247,0
                 18.1542283,59.3211714,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 250</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.1416985,59.3011057,0
+                18.1456467,59.3008866,0
+                18.1497237,59.3000102,0
+                18.1720396,59.3004703,0
+                18.17337,59.3009523,0
+                18.1748291,59.3009742,0
+                18.1769749,59.3000978,0
+                18.1898066,59.3003826,0
+                18.1868884,59.3014781,0
+                18.1774899,59.3017191,0
+                18.1741854,59.3012371,0
+                18.1736704,59.3029241,0
+                18.1538865,59.3037128,0
+                18.1391236,59.3062102,0
+                18.134875,59.3056406,0
+                18.1346604,59.3048958,0
+                18.1422135,59.3046548,0
+                18.1416985,59.3011057,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
