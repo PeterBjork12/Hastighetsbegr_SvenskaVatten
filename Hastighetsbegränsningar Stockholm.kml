@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Hastighetsbegränsningar Stockholm</name>
-    <description>Hastighetsbegränsningar i Stockholm. Innehåller info from till punkt 250 01FS 2018:48</description>
+    <description>Hastighetsbegränsningar i Stockholm. Innehåller info från hela 01FS 2018:48 plus funna övriga föreskrifter</description>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <color>ffd18802</color>
@@ -6436,16 +6436,15 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>5 kn</name>
-        <description>5 kn Punkt 201</description>
+        <name>12 kn (1 jun - 30 sept)</name>
+        <description>12 kn (1 jun - 30 sept) Punkt 311</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
               <tessellate>1</tessellate>
               <coordinates>
-                17.915698,58.886215,0
-                17.916165,58.885796,0
+                17.916173,58.8857662,0
                 17.914803,58.884846,0
                 17.915189,58.884446,0
                 17.918751,58.884824,0
@@ -6456,9 +6455,8 @@
                 17.927978,58.890678,0
                 17.924544,58.89019,0
                 17.917844,58.886437,0
-                17.916385,58.885827,0
-                17.915859,58.886259,0
-                17.915698,58.886215,0
+                17.9164038,58.8858201,0
+                17.916173,58.8857662,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -6644,6 +6642,25 @@
                 17.776749,58.88338,0
                 17.776106,58.883197,0
                 17.77485,58.882161,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn Punkt 201</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.9157003,58.8862175,0
+                17.916171,58.8857775,0
+                17.916385,58.885827,0
+                17.9158612,58.8862591,0
+                17.9157003,58.8862175,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
@@ -7336,7 +7353,7 @@
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
-            17.9821362,59.317213,0
+            17.9807629,59.316775,0
           </coordinates>
         </Point>
       </Placemark>
