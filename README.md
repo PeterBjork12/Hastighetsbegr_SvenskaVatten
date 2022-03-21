@@ -8,3 +8,6 @@ Varje dokumentations område är grovt basserat på båtsportssjökorten. Dock s
 Man kan bunta ihop flera områden i en fil och med lager/kataloger separera olika områden. T.ex. så innehåller Stockholms filen Stockholm norra, mellersta, södra samt Mälaren. Stockholm mellersta är uppdelat i två NORD & SYD då det finns fler än 100 hastighetsbegränsningar inom området.
 
 Formatet skall vara KML och man kan med fördel använda Google Maps samt Google Earth för att skapa filerna.
+
+
+Du kan se hastighetsbegränsningarna direkt i Google Maps via följande länk: https://www.google.com/maps/d/viewer?mid=18tTUbgmGxo8Cy1Ep9gB-nNFvqANHXt2m&ll=59.533189589965694%2C18.517105199999996&z=9
