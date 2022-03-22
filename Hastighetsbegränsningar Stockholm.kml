@@ -8001,6 +8001,36 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>12 kn skepp (maj – sept)</name>
+        <description>12 kn skepp (maj – sept) Hässelby holmes södra udde</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            17.8960534,59.3357777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn 01FS 2002:403</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                17.8254586,59.3568577,0
+                17.828806,59.3558953,0
+                17.8300935,59.3524827,0
+                17.8370458,59.3563327,0
+                17.8282052,59.3588263,0
+                17.8254586,59.3568577,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
