@@ -1880,16 +1880,6 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name><![CDATA[17 kn > 12m]]></name>
-        <description><![CDATA[17 kn > 12m Punkt 234]]></description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            19.0510963,59.6999912,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>10 kn Gäller endast skepp</name>
         <description>10 kn Gäller endast skepp</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
@@ -1990,6 +1980,55 @@
             19.1745596,59.5984231,0
           </coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[10 kn (> 12m)]]></name>
+        <description><![CDATA[10 kn Gäller endast > 12m Punkt 234i]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.4831161,59.505431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12 kn (> 12m)]]></name>
+        <description><![CDATA[12 kn Gäller endast > 12m Punkt 234i]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.671019,59.5724682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12 kn (> 12m, 1 maj - 30 nov)]]></name>
+        <description><![CDATA[12 kn Gäller endast > 12m och 1 maj - 30 nov Punkt 234i]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.5087553,59.4488996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[17 kn (> 12m)]]></name>
+        <description><![CDATA[17 kn Gäller endast > 12m Punkt 234L]]></description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                19.0609526,59.7029565,0
+                19.0520262,59.7098405,0
+                19.0200972,59.7006614,0
+                19.0309118,59.6924329,0
+                19.0609526,59.7029565,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
     </Folder>
     <Folder>
@@ -4172,6 +4211,46 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[8 kn (> 12m)]]></name>
+        <description><![CDATA[8 kn Gäller endast > 12m Punkt 234D]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.3929655,59.3610691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description><![CDATA[8 kn Gäller endast > 12m Punkt 234E]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.3909008,59.3703923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12 kn (> 12m)]]></name>
+        <description><![CDATA[12 kn Gäller endast > 12m Punkt 234F]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.4359023,59.3555081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12 kn (> 12m)]]></name>
+        <description><![CDATA[12 kn Gäller endast > 12m Punkt 234i]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.4068488,59.417179,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>
@@ -8029,6 +8108,36 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>10 kn skepp</name>
+        <description>10 kn Gäller endast skepp Punkt 233E</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.1000784,59.3165926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[8 kn (> 12m)]]></name>
+        <description><![CDATA[8 kn Gäller endast > 12m Punkt 234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.1598275,59.3379878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[12 kn (> 12m)]]></name>
+        <description><![CDATA[12 kn Gäller endast > 12m Punkt 234]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.1963827,59.3305945,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>
