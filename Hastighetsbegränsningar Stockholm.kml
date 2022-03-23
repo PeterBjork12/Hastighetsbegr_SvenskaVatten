@@ -71,44 +71,6 @@
         <styleUrl>#poly-0288D1-1200-76-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="poly-0288D1-1200-76-nodesc-normal">
-      <LineStyle>
-        <color>ffd18802</color>
-        <width>1.2</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cd18802</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="poly-0288D1-1200-76-nodesc-highlight">
-      <LineStyle>
-        <color>ffd18802</color>
-        <width>1.8</width>
-      </LineStyle>
-      <PolyStyle>
-        <color>4cd18802</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="poly-0288D1-1200-76-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-0288D1-1200-76-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-0288D1-1200-76-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
       <name>Stockholm norra</name>
       <Placemark>
@@ -894,8 +856,8 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>5 kn</name>
-        <description>5 kn 1 jun-30sep</description>
+        <name>5 kn (1 jun - 30 sep)</name>
+        <description>5 kn (1 jun - 30 sep) Punkt 30</description>
         <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -924,7 +886,8 @@
       </Placemark>
       <Placemark>
         <name>8 kn</name>
-        <styleUrl>#poly-0288D1-1200-76-nodesc</styleUrl>
+        <description>8 kn Punkt 30</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
         <Polygon>
           <outerBoundaryIs>
             <LinearRing>
@@ -2017,6 +1980,16 @@
             </LinearRing>
           </outerBoundaryIs>
         </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn Punkt 32</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            19.1745596,59.5984231,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
     <Folder>
