@@ -4252,6 +4252,16 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn ????</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.6102193,59.4171511,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta SYD</name>
