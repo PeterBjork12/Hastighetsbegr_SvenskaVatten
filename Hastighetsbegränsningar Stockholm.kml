@@ -4254,13 +4254,25 @@
       </Placemark>
       <Placemark>
         <name>5 kn</name>
-        <description>5 kn ????</description>
-        <styleUrl>#icon-1899-0288D1</styleUrl>
-        <Point>
-          <coordinates>
-            18.6102193,59.4171511,0
-          </coordinates>
-        </Point>
+        <description>5 kn 01FS 2019:35</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6070652,59.416347,0
+                18.6101122,59.4163252,0
+                18.613524,59.4167728,0
+                18.6144252,59.4174715,0
+                18.611464,59.4174934,0
+                18.6077304,59.4178318,0
+                18.60743,59.4176244,0
+                18.6070652,59.416347,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
     </Folder>
     <Folder>
