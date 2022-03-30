@@ -2030,6 +2030,67 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.648921,59.5530342,0
+                18.6487708,59.552621,0
+                18.6505089,59.5518924,0
+                18.6511526,59.5529037,0
+                18.648921,59.5530342,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6423708,59.5523614,0
+                18.6449458,59.552829,0
+                18.6486847,59.5526224,0
+                18.6489798,59.5533156,0
+                18.6470701,59.5538402,0
+                18.6423494,59.5538946,0
+                18.6423708,59.5523614,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn</name>
+        <description>8 kn</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6511902,59.5528983,0
+                18.6505721,59.5518748,0
+                18.651114,59.5515703,0
+                18.6566715,59.5513067,0
+                18.6581842,59.5525028,0
+                18.6524014,59.5533292,0
+                18.6511902,59.5528983,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta NORD</name>
