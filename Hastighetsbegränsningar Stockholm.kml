@@ -2128,6 +2128,51 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>8 kn (1 juni – 30 september)</name>
+        <description>8kn gäller endast 1 juni – 30 september. 01FS 2002:250 och 01FS 2004:63</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6582869,59.4950425,0
+                18.6607545,59.4935829,0
+                18.6620205,59.4940731,0
+                18.6643379,59.4930927,0
+                18.6652606,59.4921559,0
+                18.6672347,59.4935066,0
+                18.6626428,59.4954128,0
+                18.6582869,59.4950425,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn</name>
+        <description>5 kn 01FS 2016:4</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6394447,59.5019139,0
+                18.6424487,59.5019901,0
+                18.6440795,59.5022842,0
+                18.6425775,59.5046689,0
+                18.6409682,59.5055836,0
+                18.6349171,59.5036345,0
+                18.6349171,59.5029484,0
+                18.6387795,59.5028286,0
+                18.6394447,59.5019139,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta NORD</name>
