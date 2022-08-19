@@ -4372,6 +4372,32 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>7kn (1 juni - 31 aug)</name>
+        <description>7 kn gäller endast mellan 1/6 - 31/8 01FS 2012:70</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6203862,59.3699652,0
+                18.6215449,59.3693311,0
+                18.6265231,59.3690032,0
+                18.6283684,59.3671227,0
+                18.6306,59.3660074,0
+                18.6336041,59.3674725,0
+                18.6318446,59.3696154,0
+                18.630085,59.3696154,0
+                18.6257077,59.3713208,0
+                18.6262656,59.3721298,0
+                18.6244202,59.3721735,0
+                18.6203862,59.3699652,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta SYD</name>
