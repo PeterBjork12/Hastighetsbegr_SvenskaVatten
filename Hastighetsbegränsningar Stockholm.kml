@@ -4443,6 +4443,37 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
+      <Placemark>
+        <name>5 kn (1 maj - 31 aug)</name>
+        <description>5 kn gäller endast 1 maj–31 augusti 01FS 2018:35</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            18.6256996,59.3977104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5 kn (15 maj - 15 sept)</name>
+        <description>5 kn gäller endast mellan 15 maj - 15 september 01FS 2007:232</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.8891408,59.3916519,0
+                18.8887009,59.3914989,0
+                18.8913617,59.3882265,0
+                18.8956639,59.3877512,0
+                18.8976917,59.3896524,0
+                18.8936362,59.3902752,0
+                18.8891408,59.3916519,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Stockholm mellersta SYD</name>
@@ -6320,6 +6351,80 @@
                 18.307049,59.2652167,0
                 18.3025429,59.2671028,0
                 18.3009979,59.2700196,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>5 kn (1 april - 15 okt)</name>
+        <description>5 kn gäller endast mellan 1 april - 15 okt. 01FS 2005:97</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6659327,59.2962783,0
+                18.6664477,59.2956757,0
+                18.6659756,59.2952265,0
+                18.6676815,59.2951936,0
+                18.6675313,59.2968042,0
+                18.6667267,59.2973246,0
+                18.6659327,59.2962783,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>7 kn</name>
+        <description>7 kn 01FS 2021:09</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.6812047,59.3002944,0
+                18.6827389,59.3008093,0
+                18.6836348,59.3016309,0
+                18.6847881,59.3014118,0
+                18.6837045,59.3028633,0
+                18.680797,59.3025237,0
+                18.6790804,59.3018774,0
+                18.6775676,59.3007271,0
+                18.6812047,59.3002944,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>8 kn (15 maj - 15 sept)</name>
+        <description>8 kn Gäller endast 15 maj - 15 sept 01FS 2010:166</description>
+        <styleUrl>#poly-0288D1-1200-76</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                18.5286068,59.2710539,0
+                18.5429834,59.267589,0
+                18.5502361,59.2644308,0
+                18.5504936,59.2614478,0
+                18.5593341,59.2599562,0
+                18.5613083,59.2612504,0
+                18.5707925,59.2586619,0
+                18.57208,59.2589471,0
+                18.5760282,59.2571263,0
+                18.5768007,59.2586619,0
+                18.551824,59.2663828,0
+                18.5530256,59.2680715,0
+                18.5501503,59.2704838,0
+                18.5416959,59.2720407,0
+                18.5359453,59.2750009,0
+                18.5286068,59.2710539,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
